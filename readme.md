@@ -1,8 +1,5 @@
-## Video
-
-# Link zum Video: https://youtu.be/ObSO2Hy7PRA
-
-## Funktionen
+## Repo for Uni chess project
+# Funktionen
 
 - **inBounds** Input: int i, int j
   I und J sind die Koordinaten(0-7) einer mögliche Postition auf dem Brett, die Funktionen entscheidet ob diese Position innerhalb dem Brett liegt.
